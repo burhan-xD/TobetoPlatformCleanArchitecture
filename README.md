@@ -10,7 +10,7 @@
 
 Proje Ekibi:  
 [Ersin KAYA](https://github.com/ersin-kaya) - [Özgür SÖNMEZ](https://github.com/OzgurSonmez),  
-Şara Hazal Baydar,  
-Gökçe Fırat,  
-Burak Tan,  
-Burhan Özşahinoğlu
+[Şara Hazal Baydar](https://github.com/sarahazalbaydar),  
+[Gökçe Fırat](https://github.com/gokcefirat),  
+[Burak Tan](https://github.com/buraktann),  
+[Burhan Özşahinoğlu](https://github.com/burhan-xD)
